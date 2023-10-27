@@ -1,0 +1,33 @@
+Grupo 1: Lácteos
+  Leche - 150 
+  Queso - 250 
+  Yogur - 120 
+
+Grupo 2: Carnes y pescados
+  Pollo - 200 
+  Carne de res - 300 
+  Pescado - 180 
+
+Grupo 3: Legumbres y frutos secos
+  Frijoles  - 120 
+  Lentejas - 150 
+  Almendras, nueces, avellanas - 180 
+
+Grupo 4: Frutas y verduras
+  Manzana - 60
+  Plátano - 90 
+  Zanahoria - 40 
+
+Grupo 5: Cereales y panes
+  Arroz  - 150 
+  Pan - 100 
+  Pasta - 180 
+
+
+
+
+
+
+
+
+
